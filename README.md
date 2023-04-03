@@ -6,7 +6,7 @@ For questions and comments regarding the code, please contact Kamaryn Tanner (ka
 
 This code was written in R v4.0.2 running on a Windows 10 PC.
 
-We ilustrate the use of this code with the Mayo Clinic Primary Biliary Cholangitis dataset publicly available via the R package survival. Although we are not permitted to make the QResearch data used in the manuscript public, interested researchers may get more information about the data at: https://www.qresearch.org/information/information-for-researchers/
+We illustrate the use of this code with the Mayo Clinic Primary Biliary Cholangitis dataset publicly available via the R package survival. Although we are not permitted to make the QResearch data used in the manuscript public, interested researchers may get more information about the data at: https://www.qresearch.org/information/information-for-researchers/
 
 The code is organised in two files:
 
